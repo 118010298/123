@@ -27,24 +27,27 @@ experience:
     company_url: 'https://airs.cuhk.edu.cn/'
     #company_logo: org-gc
     location: Shenzhen, China
-    date_start: '2020-05-01'
-    date_end: '2021-06-01'
+    date_start: '2020-07-01'
+    date_end: 'Present'
     #description: |2-
-        #Responsibilities include:
+        Responsibilities include:
         
-        #* Analysing
-        #* Modelling
-        #* Deploying
+        * Design and implement Federated learning system 
+        * Conduct Computer Vision experiment
+        * Perform Data Mining and Data Visualization
         
-  - title: Assistant Researcher Intern
-    company: China Alliance of Social Value Investment
-    company_url: 'https://www.casvi.org/'
+  - title: Members of the engineering department, Intern
+    company: Hangzhou City Brain
+    company_url: 'https://www.cityos.com/'
     #company_logo: org-x
-    location: Shenzhen, China
-    date_start: '2020-02-01'
-    date_end: '2020-06-01'
-    #description: Taught electronic engineering and researched semiconductor physics.
-
+    location: Hangzhou, China
+    date_start: '2021-07-13'
+    date_end: '2021-09-25'
+    #description: |2-
+        Responsibilities include:
+        
+        * Implement source code of the MySQL database
+        * Implement Python script for data query and selection
 design:
   columns: '2'
 ---
