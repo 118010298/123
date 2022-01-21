@@ -58,7 +58,7 @@ item:
 - certificate_url: https://www.cuhk.edu.cn/en
   date_end: ""
   date_start: "2021-10-23"
-  description: "Clustering Enabled Few-shot Load Forecasting"
+  description: "An award for the publication of the conference papaer "Clustering Enabled Few-shot Load Forecasting""
   organization: CUHK(SZ) Undergraduate Research Committee
   organization_url: https://www.cuhk.edu.cn/en
   title: Undergraduate Research Award
