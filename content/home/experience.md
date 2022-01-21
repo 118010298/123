@@ -28,7 +28,7 @@ experience:
     #company_logo: org-gc
     location: Shenzhen, China
     date_start: '2020-07-01'
-    date_end: 'Present'
+    date_end: '2022-06-25'
     #description: |2-
         Responsibilities include:
         
