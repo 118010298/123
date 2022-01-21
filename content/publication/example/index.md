@@ -28,8 +28,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Southern Power Electronics Conference*
-publication_short: In *IEEE SPEC*
+publication: In *IEEE Sustainable Power and Energy Conference* 2021
+publication_short: In *IEEE SPEC* 2021
 
 abstract: In this paper, we consider the load forecasting for a new user in the system by observing only few shots (data points) of its energy consumption. We propose to utilize clustering to mitigate the challenges brought by the limited samples. Specifically, we first design a feature extraction clustering method for categorizing the historical data. Then, the load forecast for new users is conducted through a two-phase Long Short Term Memory (LSTM) model, which inherits prior knowledge from the clustering results.
 
