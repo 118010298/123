@@ -1,6 +1,6 @@
 ---
 title: Qiyuan Wang
-role: Undergraduate Student Major in Statistics
+role: Undergraduate Student Majoring in Statistics
 avatar_filename: avatar.jpg
 bio: My research interests include Federated Learning, Transfer Learning and
   Data Mining.
