@@ -33,27 +33,35 @@ item:
   url: ""
 - certificate_url: https://www.ets.org/toefl
   date_end: ""
-  date_start: "2021-01-19"
-  description: "TOEFL Score： 105"
+  date_start: "2020-09-19"
+  description: "TOEFL Score： 104"
   organization: ETS
   organization_url: https://www.ets.org/toefl
   title: TOEFL Test
   url: ""
-- certificate_url: https://cet.neea.edu.cn/
+- certificate_url: https://www.ets.org/gre
   date_end: ""
-  date_start: "2021-04-16"
-  description: "CET-6 Score： 633"
-  organization: CET
-  organization_url: https://cet.neea.edu.cn/
-  title: CET-6 Test
+  date_start: "2021-12-12"
+  description: "GRE Score： 327+"
+  organization: ETS
+  organization_url: https://www.ets.org/gre
+  title: GRE Test
   url: ""
-- certificate_url: https://harmonia.cuhk.edu.cn/page/25
+- certificate_url: https://www.cuhk.edu.cn/en
   date_end: ""
-  date_start: "2020-09-15"
-  description: "Harmonia College Scholarship 2019-2020, 2020-2021"
-  organization: CUHK(SZ) Harmonia College
-  organization_url: https://harmonia.cuhk.edu.cn/page/25
-  title: CUHK(SZ) Harmonia College Scholarship
+  date_start: "2018-09-15"
+  description: "Bowen Scholarship 2018-2019, 2019-2020"
+  organization: CUHK(SZ)
+  organization_url: https://www.cuhk.edu.cn/en
+  title: CUHK(SZ) Bowen Scholarship
+  url: ""
+- certificate_url: https://www.cuhk.edu.cn/en
+  date_end: ""
+  date_start: "2021-10-23"
+  description: "Clustering Enabled Few-shot Load Forecasting"
+  organization: CUHK(SZ) Undergraduate Research Committee
+  organization_url: https://www.cuhk.edu.cn/en
+  title: Undergraduate Research Award
   url: ""
 #- certificate_url: https://www.edx.org
   #date_end: ""
