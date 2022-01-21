@@ -29,7 +29,7 @@ experience:
     location: Shenzhen, China
     date_start: '2020-07-01'
     date_end: '2022-06-25'
-    #description: |2-
+    description: |2-
         Responsibilities include:
         
         * Design and implement Federated learning system 
@@ -43,7 +43,7 @@ experience:
     location: Hangzhou, China
     date_start: '2021-07-13'
     date_end: '2021-09-25'
-    #description: |2-
+    description: |2-
         Responsibilities include:
         
         * Implement source code of the MySQL database
