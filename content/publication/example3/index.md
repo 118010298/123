@@ -1,5 +1,5 @@
 ---
-title: "专利：基于聚类的小样本负荷预测方法和预测装置/Patent: Clustering Ensembled Few-shot load forecasting method and its device"
+title: "Authorized Patent: Clustering Enabled Few-shot load forecasting method and its device"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
