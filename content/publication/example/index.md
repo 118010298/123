@@ -41,10 +41,10 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-Custom links (uncomment lines below)
-links:
-- name: Custom Link
-  url: https://arxiv.org/abs/2202.07939
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+  # url: https://arxiv.org/abs/2202.07939
 
 url_pdf: ''
 url_code: ''
