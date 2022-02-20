@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
   # url: https://arxiv.org/abs/2202.07939
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2202.07939'
 url_code: ''
 url_dataset: ''
 url_poster: ''
