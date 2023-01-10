@@ -1,29 +1,30 @@
 ---
 title: Qiyuan Wang
-role: Undergraduate Student Majoring in Statistics
+role: Graduate Student Majoring in Statistics
 avatar_filename: avatar.jpg
-bio: My research interests include Federated Learning, Transfer Learning and
-  Data Mining.
+bio: My research interests include Time Series Clustering, Bayesian Analysis and Federated Learning.
 interests:
   - Artificial Intelligence
-  - Edge Computing
+  - Time Series Analysis
+  - Bayesian Analysis
   - Federated Learning
-  - Transfer Learning
 social:
-  - icon: envelope
+  - icon: linkedin
     icon_pack: fas
-    link: /#contact
+    link: https://www.linkedin.com/in/%E5%90%AF%E5%85%83-%E6%B1%AA-9b309a229/?locale=en_US
   - icon: github
     icon_pack: fab
     link: https://github.com/118010298
 organizations:
-  - name: The Chinese University of Hong Kong, Shenzhen
-    url: https://www.cuhk.edu.cn/en
-  - name: Shenzhen Institute of Artificial Intelligence And Robotics for Society
-      (AIRS)
-    url: https://airs.cuhk.edu.cn/en
+  - name: Columbia University in the City of New York
+    url: https://www.columbia.edu/
+  - name: The Chinese University of Hongkong
+    url: https://www.cuhk.edu.hk/chinese/index.html
 education:
   courses:
+    - course: MSc in Applied Statistics
+      institution: Columbia University in the City of New York
+      year: 2023
     - course: BSc in Statistics, Data Science Stream
       institution: The Chinese University of Hong Kong, Shen zhen
       year: 2022
@@ -33,8 +34,9 @@ user_groups:
   - https://airs.cuhk.edu.cn/en
 highlight_name: true
 ---
-Qiyuan Wang is an undergraduate student in Statistics at the Chinese University of Hongkong, Shenzhen. His research interests include Artificial Intelligence, Edge Computing, Federated Learning and Transfer Learning. He is the key member of Computer Vision group in Special Robotics Center of AIRS, which develops inspection robots for industry, object detection algorithms for robots and federated learning system.
+Qiyuan Wang is a graduate student in Applied Statistics at Columbia University. His research interests include Artificial Intelligence, Time series analysis, Bayesian analysis and Federated Learning. He is the key member of Computer Vision group in Special Robotics Center of AIRS, which develops inspection robots for industry, object detection algorithms for robots and federated learning system. He is also a course assistant for Linear regression courses in Columbia University.
 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
