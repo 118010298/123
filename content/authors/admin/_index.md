@@ -4,7 +4,7 @@ role: Graduate Student Majoring in Statistics
 avatar_filename: avatar.jpg
 bio: My research interests include Time Series Clustering, Bayesian Analysis and Federated Learning.
 interests:
-  - Artificial Intelligence
+  - Machine Learning
   - Time Series Analysis
   - Bayesian Analysis
   - Federated Learning
@@ -34,7 +34,7 @@ user_groups:
   - https://airs.cuhk.edu.cn/en
 highlight_name: true
 ---
-Qiyuan Wang is a graduate student in Applied Statistics at Columbia University. His research interests include Artificial Intelligence, Time series analysis, Bayesian analysis and Federated Learning. He is the key member of Computer Vision group in Special Robotics Center of AIRS, which develops inspection robots for industry, object detection algorithms for robots and federated learning system. He is also a course assistant for Linear regression courses in Columbia University.
+Qiyuan Wang is a graduate student in Applied Statistics at Columbia University. His research interests include Machine Learning, Time series analysis, Bayesian analysis and Federated Learning. He is the key member of Computer Vision group in Special Robotics Center of AIRS, which develops inspection robots for industry, object detection algorithms for robots and federated learning system. He is also a course assistant for Linear regression courses in Columbia University.
 
 
 
