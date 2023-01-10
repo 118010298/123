@@ -9,9 +9,9 @@ interests:
   - Bayesian Analysis
   - Federated Learning
 social:
-  - icon: linkedin
+  - icon: envelope
     icon_pack: fas
-    link: https://www.linkedin.com/in/%E5%90%AF%E5%85%83-%E6%B1%AA-9b309a229/?locale=en_US
+    link: mailto::wqy213@yeah.net
   - icon: github
     icon_pack: fab
     link: https://github.com/118010298
