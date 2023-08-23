@@ -24,9 +24,9 @@ organizations:
     url: https://www.cuhk.edu.hk/chinese/index.html
 education:
   courses:
-    - course: Ph.D. in Statistics
+    - course: Ph.D. student in Statistics
       institution: Texas A&M University 
-      year: 2023
+      year: 2023 - current
     - course: MSc in Applied Statistics
       institution: Columbia University in the City of New York
       year: 2023
@@ -39,7 +39,7 @@ user_groups:
   - https://airs.cuhk.edu.cn/en
 highlight_name: true
 ---
-Qiyuan Wang is a Ph.D. candidate in Statistics at Texas A&M. His research interests include Machine Learning, Time series analysis, Bayesian analysis and Federated Learning. He is the key member of Computer Vision group in Special Robotics Center of AIRS, which develops inspection robots for industry, object detection algorithms for robots and federated learning system. He is also a course assistant for Linear regression courses in Columbia University and Texas A&M.
+Qiyuan Wang is a Ph.D. student in Statistics at Texas A&M. His research interests include Machine Learning, Time series analysis, Bayesian analysis and Federated Learning. He is the key member of Computer Vision group in Special Robotics Center of AIRS, which develops inspection robots for industry, object detection algorithms for robots and federated learning system. He is also a course assistant for Linear regression courses in Columbia University and Texas A&M.
 
 
 
