@@ -27,7 +27,7 @@ education:
     - course: Ph.D. student in Statistics
       institution: Texas A&M University 
       year: 2023 - current
-    - course: MSc in Applied Statistics
+    - course: MSc in Statistics
       institution: Columbia University in the City of New York
       year: 2023
     - course: BSc in Statistics, Data Science Stream
